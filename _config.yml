@@ -1,15 +1,14 @@
-title: Joey Rosicka
+title: John Smith
 description: My Personal Blog
-author: Joey Rosicka
+author: John Smith
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
-about: Software Engineer | Game Developer
+about: Freelance developer
 
 baseurl: ""
 url: "//joeyrosicka.com"
 
-# Enables the search bar at the top of the page. I haven't really looked at how well it works. 
-allowsearch: false
+allowsearch: true
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
