@@ -8,7 +8,7 @@ about: Software Engineer | Game Developer
 baseurl: ""
 url: "//joeyrosicka.com"
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
