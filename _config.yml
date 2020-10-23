@@ -1,7 +1,7 @@
 title: Joey Rosicka
 description: My Personal Blog
 author: Joey Rosicka
-logo: /hcz-jekyll-blog/static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/codeasashu
 about: Software Engineer | Game Developer
 
@@ -11,7 +11,6 @@ url: "//joeyrosicka.com"
 allowsearch: false
 
 disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
