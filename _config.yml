@@ -2,7 +2,7 @@ title: Joey Rosicka
 description: My Personal Blog
 author: Joey Rosicka
 logo: /static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/JRosicka
 about: Software Engineer | Game Developer
 
 baseurl: ""
@@ -10,7 +10,7 @@ url: "//joeyrosicka.com"
 
 allowsearch: false
 
-disqus_shortname: aboutashu
+disqus_shortname: aboutjoey
 
 share:
   twitter_username: \#
