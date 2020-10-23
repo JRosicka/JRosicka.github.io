@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://aronbordin.com/neo-hpstr-jekyll-theme
+url: http://aronbordin.com/neo-hpstr-jekyll-theme
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -21,9 +21,9 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Fork'
-    url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'Install'
-    url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
+    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -40,7 +40,7 @@ menu:
 # Owner/author information
 owner:
   name:           Your name
-  site:           https://aronbordin.com
+  site:           http://aronbordin.com
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
