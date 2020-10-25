@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hiya! I'm Joey Rosicka and I'm a software developer located in the Twin Cities area. 
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+Here you can find [my portfolio](https://www.joeyrosicka.com/projects) of game dev projects I've worked on, as well as various [blog posts](https://www.joeyrosicka.com/blog) based around a variety of topics ranging from game development to whatever is on my mind (editor's note: there are currently 0 "whatever is on my mind" posts).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you want to get in touch, I can best be contacted via [email](mailto:joseph.erik.rosicka@gmail.com).
