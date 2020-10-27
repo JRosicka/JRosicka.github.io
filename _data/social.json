@@ -1,18 +1,18 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
+    "icon": "fa-envelope",
+    "link": "mailto:joseph.erik.rosicka@gmail.com?Subject=Hello,%20Joey!"
   },
   {
     "icon": "fa-linkedin",
     "link": ""
   },
   {
-    "icon": "fa-stack-exchange",
+    "icon": "fa-github",
+    "link": "//github.com/JRosicka"
+  },
+  {
+    "icon": "fa-twitter",
     "link": ""
   }
 ]
