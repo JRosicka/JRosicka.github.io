@@ -9,7 +9,7 @@ baseurl: ""
 url: "//joeyrosicka.com"
 
 allowsearch: false
-allowsocials: true
+allowsocials: false
 
 share:
   twitter_username: \#
