@@ -10,6 +10,8 @@
               <p class="list-group-item-text">{{ site.about }}</p>
               {% if site.allowsocials == true %}
               {% include social_links.html %}
+              {% else %}
+              <br>
               {% endif %}
             </div>
             <div class="navbar-header pull-right">
