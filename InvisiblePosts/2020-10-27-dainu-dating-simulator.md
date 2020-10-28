@@ -1,0 +1,72 @@
+---
+layout: post
+title: Dainu Dating Simulator
+date:   2020-10-27 12:00:00
+categories: Game Jam
+--------------------
+
+PUND Studios presents - Dainu Dating Simulator!
+
+(title image)
+
+<blockquote>Find the dainu of your dreams by wandering through our hottest new dating app! Pay attention, because you'll need to have some ~wily empathy~ in order to court the dainu(s) of your dreams. Can you date all the dainus before the meteors hit?
+
+This game was the result of a [**game jam**](https://en.wikipedia.org/wiki/Game_jam) that some housemates and I worked on in November 2019. We brainstormed and considered a variety of ideas around a single randomly-chosen constraint - that the game needed to have something to do with dinosaurs. 
+
+As you can see, we chose the best possible outcome. 
+
+(image of a conversation with a dinosaur) 
+
+## The design
+
+There were two main things we wanted our game to have. 
+<ul>
+<li>A dating-app-style swipe right/swipe left interface where the player can read through dainu biographies and choose whether to try to date them</li>
+<li>A visual-novel-style date segment where the player goes out to a **swanky** restaurant with a dainu they matched with</li>
+</ul>
+
+The dating portion of the game would feature a number of conversational decisions the player needed to make based on information they gathered from previous parts of the date and from the dainu's biography. Don't remember how Tim likes his coffee? Sorry bucko, looks like you failed the date. 
+
+(image of the Tim coffee question or the bad date ending with him)
+
+In order to make the game more fast-paced, we introduced a time mechanic - a meteoric one, at that. 
+
+(video of meteor clock counting down)
+
+## The work
+
+Our team had six members on it with a variety of skills, and for most members this was their first game jam. One of the core ideas we had in mind when picking the kind of game we wanted to make was to choose something that everyone could have a big role in helping to create. In addition to development and art, Dainu Dating Simulator required a healthy amount of writing for all the characters. We also invested a good amount of time into the audio - recording and editing emotive sounds for the prominent dainus.  
+
+(video of a reaction)
+
+The result ended up being a fairly good balance of things to work on. 
+
+We used Unity as our engine, which ended up being a cool opportunity for me to teach the other developers how to use it. We were able to split up the work into a few different areas to avoid bumping into each other:
+<ul>
+<li>Backend logic for organizing and serving profiles during the dating app portion of the game</li>
+<li>Creating a system to easily configure dainu profiles/dialog and another system for displaying it in the game</li>
+<li>Animation and UI work</li>
+<li>Countless miscellaneous tasks, like creating the game timer</li>
+</ul>
+
+I was able to work on a good mixture of backend and frontend work. I handled most of the profile configuration system and display logic which ended up being a nice opportunity to familiarize myself with Unity's concept of ScriptableObjects. Take a look at this simple ScriptableObject script (script): 
+
+(script)
+
+This allows us to serialize instances of (script) and configure their fields via the Unity editor. 
+
+(picture of unity editor dainu)
+
+With this system, non-developers were able to add profile information, images, dialog, and audio into (dainu script) in order to include dainus into the game. Hurray for accessibility! 
+
+I was also able to work on creating some animations to add some movement into the game. I had not had all that much experience using Unity's animator, so I was able to practice that quite a bit. I found that keyframe animation in Unity was quite intuitive, but ran into a bit of trouble setting up the animation logic using the Animator tool. Still, since we had budgeted a lot of time for me to work on this, I was able to 
+
+
+
+This project captured what I think is one of the coolest moments you can find in a game jam - as the weekend was winding down and it became clear to our group that we did not have enough time to include everything we wanted, all of us agreed to pick a few more days in the coming weeks to meet back up and finish the project. After much animation polishing and dialog tweaking, we had our finished game and could begin bugging all of our friends to play it. 
+
+## The best dainu
+
+It's Kim.
+
+(picture of Kim)
