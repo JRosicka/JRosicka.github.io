@@ -3,13 +3,13 @@ layout: post
 title: Dainu Dating Simulator
 date:   2020-10-27 12:00:00
 categories: Game Jam
---------------------
+---
 
 PUND Studios presents - Dainu Dating Simulator!
 
 ![title](/static/img/DainuDatingSim/title.png)
 
-<blockquote>Find the dainu of your dreams by wandering through our hottest new dating app! Pay attention, because you'll need to have some ~wily empathy~ in order to court the dainu(s) of your dreams. Can you date all the dainus before the meteors hit?
+<blockquote><p>Find the dainu of your dreams by wandering through our hottest new dating app! Pay attention, because you'll need to have some ~wily empathy~ in order to court the dainu(s) of your dreams. Can you date all the dainus before the meteors hit?</p>
 
 This game was the result of a [**game jam**](https://en.wikipedia.org/wiki/Game_jam) that some housemates and I worked on in November 2019. We brainstormed and considered a variety of ideas around a single randomly-chosen constraint - that the game needed to have something to do with dinosaurs. 
 
