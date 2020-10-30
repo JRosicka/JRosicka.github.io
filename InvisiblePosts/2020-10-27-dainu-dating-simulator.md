@@ -7,7 +7,7 @@ categories: Game Jam
 
 PUND Studios presents - Dainu Dating Simulator!
 
-(title image)
+![title](/static/img/DainuDatingSim/title.png)
 
 <blockquote>Find the dainu of your dreams by wandering through our hottest new dating app! Pay attention, because you'll need to have some ~wily empathy~ in order to court the dainu(s) of your dreams. Can you date all the dainus before the meteors hit?
 
@@ -15,7 +15,7 @@ This game was the result of a [**game jam**](https://en.wikipedia.org/wiki/Game_
 
 As you can see, we chose the best possible outcome. 
 
-(image of a conversation with a dinosaur) 
+![conversation](/static/img/DainuDatingSim/tracyConversation.png)
 
 ## The design
 
@@ -27,17 +27,21 @@ There were two main things we wanted our game to have.
 
 The dating portion of the game would feature a number of conversational decisions the player needed to make based on information they gathered from previous parts of the date and from the dainu's biography. Don't remember how Tim likes his coffee? Sorry bucko, looks like you failed the date. 
 
-(image of the Tim coffee question or the bad date ending with him)
+![coffee](/static/img/DainuDatingSim/theodoreCoffee.png)
 
 In order to make the game more fast-paced, we introduced a time mechanic - a meteoric one, at that. 
 
-(video of meteor clock counting down)
+<video width="480" height="320" controls="controls">
+  <source src="/static/img/DainuDatingSim/timer.mp4" type="video/mp4">
+</video>
 
 ## The work
 
 Our team had six members on it with a variety of skills, and for most members this was their first game jam. One of the core ideas we had in mind when picking the kind of game we wanted to make was to choose something that everyone could have a big role in helping to create. In addition to development and art, Dainu Dating Simulator required a healthy amount of writing for all the characters. We also invested a good amount of time into the audio - recording and editing emotive sounds for the prominent dainus.  
 
-(video of a reaction)
+<video width="480" height="320" controls="controls">
+  <source src="/static/img/DainuDatingSim/reaction.mp4" type="video/mp4">
+</video>
 
 The result ended up being a fairly good balance of things to work on. 
 
@@ -51,17 +55,51 @@ We used Unity as our engine, which ended up being a cool opportunity for me to t
 
 I was able to work on a good mixture of backend and frontend work. I handled most of the profile configuration system and display logic which ended up being a nice opportunity to familiarize myself with Unity's concept of ScriptableObjects. Take a look at this simple ScriptableObject script (script): 
 
-(script)
+{% highlight csharp %}
+public class DainuData : ScriptableObject {
+    public enum DateType {
+        Match, 
+        NotMatch
+    }
+
+    // UID
+    public int id;
+
+    // Display name, occupation, and location
+    public string dainuName;
+    public string dainuJob;
+    public string dainuLocation;
+
+    // Which type of dainu this is (whether this can result in a date)
+    public DateType dateType;
+
+    // Main image for dainu
+    public Sprite profileImage;
+
+    public Sprite fullBodyImage;
+
+    // Complete biography for dainu
+    public string bio;
+
+    // This represents a sequence of BOTH the main character's lines AND the dinosaur's lines during dates
+    public List<DialogEvent> dateDialogEvents;
+
+    // The "game over" string for when the date sucks
+    public string dateBadEnd;
+}
+{% endhighlight %}
 
 This allows us to serialize instances of (script) and configure their fields via the Unity editor. 
 
-(picture of unity editor dainu)
+![dainuconfig](/static/img/DainuDatingSim/dainuConfig.png)
 
 With this system, non-developers were able to add profile information, images, dialog, and audio into (dainu script) in order to include dainus into the game. Hurray for accessibility! 
 
 I was also able to work on creating some animations to add some movement into the game. I had not had all that much experience using Unity's animator, so I was able to practice that quite a bit. I found that keyframe animation in Unity was quite intuitive, but ran into a bit of trouble setting up the animation logic using the Animator tool. Still, since we had budgeted a lot of time for me to work on this, I was able to 
 
-
+<video width="480" height="320" controls="controls">
+  <source src="/static/img/DainuDatingSim/animations.mp4" type="video/mp4">
+</video>
 
 This project captured what I think is one of the coolest moments you can find in a game jam - as the weekend was winding down and it became clear to our group that we did not have enough time to include everything we wanted, all of us agreed to pick a few more days in the coming weeks to meet back up and finish the project. After much animation polishing and dialog tweaking, we had our finished game and could begin bugging all of our friends to play it. 
 
@@ -69,4 +107,4 @@ This project captured what I think is one of the coolest moments you can find in
 
 It's Kim.
 
-(picture of Kim)
+![dainuconfig](/static/img/DainuDatingSim/kimConversation.png)
