@@ -2,7 +2,7 @@
 layout: post
 title: Dainu Dating Simulator
 date:   2020-10-27 12:00:00
-categories: Game Jam
+categories: game-jams
 ---
 
 PUND Studios presents - Dainu Dating Simulator!
