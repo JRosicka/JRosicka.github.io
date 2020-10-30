@@ -33,7 +33,7 @@ The dating portion of the game would feature a number of conversational decision
 
 In order to make the game more fast-paced, we introduced a time mechanic - a meteoric one, at that. 
 
-<video width="480" height="320" controls="controls">
+<video controls="controls">
   <source src="/static/img/DainuDatingSim/timer.mp4" type="video/mp4">
 </video>
 
@@ -41,7 +41,7 @@ In order to make the game more fast-paced, we introduced a time mechanic - a met
 
 Our team had six members on it with a variety of skills, and most member had not participated in a game jam before. One of the core ideas we had in mind when picking the kind of game we wanted to make was to choose something that everyone could have a big role in helping to create. Dainu Dating Simulator fit well with this goal - in addition to development and art, it required a healthy amount of writing for all the characters. We also invested a good amount of time into the audio, recording and editing emotive sounds for the prominent dainus.  
 
-<video width="480" height="320" controls="controls">
+<video controls="controls">
   <source src="/static/img/DainuDatingSim/reaction.mp4" type="video/mp4">
 </video>
 
@@ -99,7 +99,7 @@ With this system, non-developers were able to add profile information, images, d
 
 I was also able to work on creating animations to add some movement into the game. I had not had all that much experience using Unity's animator, so I was able to practice that quite a bit. I found that keyframe animation in Unity was quite intuitive, but ran into a bit of trouble setting up the animation flow using the Animator tool. Still, since we budgeted a lot of time for me to work on this, I was able to get some simple animations going. 
 
-<video width="480" height="320" controls="controls">
+<video controls="controls">
   <source src="/static/img/DainuDatingSim/animations.mp4" type="video/mp4">
 </video>
 
