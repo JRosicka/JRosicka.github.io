@@ -43,7 +43,7 @@ In order to make the game more fast-paced, we introduced a time mechanic - a met
 
 Our team had six members on it with a variety of skills, and most member had not participated in a game jam before. One of the core ideas we had in mind when picking the kind of game we wanted to make was to choose something that everyone could have a big role in helping to create. Dainu Dating Simulator fit well with this goal - in addition to development and art, it required a healthy amount of writing for all the characters. We also invested a good amount of time into the audio, recording and editing emotive sounds for the prominent dainus.  
 
-<video class="center-block" controls="controls">
+<video class="center-block" width="480" height="320" controls="controls">
   <source src="/static/img/DainuDatingSim/reaction.mp4" type="video/mp4">
 </video>
 
