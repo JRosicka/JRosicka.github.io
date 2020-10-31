@@ -2,7 +2,7 @@
 layout: post
 title: Dainu Dating Simulator
 date:   2020-10-31 12:00:00
-categories: game-jams
+categories: game-jams unity
 ---
 
 [**Download link**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing)
