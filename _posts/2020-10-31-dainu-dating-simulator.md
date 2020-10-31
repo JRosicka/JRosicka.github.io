@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dainu Dating Simulator
-date:   2020-10-27 12:00:00
+date:   2020-10-31 12:00:00
 categories: game-jams
 ---
 
