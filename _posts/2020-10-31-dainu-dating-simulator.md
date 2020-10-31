@@ -5,6 +5,8 @@ date:   2020-10-31 12:00:00
 categories: game-jams
 ---
 
+[**Download link**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing)
+
 PUND Studios presents - Dainu Dating Simulator!
 
 ![title](/static/img/DainuDatingSim/title.png)
@@ -111,3 +113,7 @@ This project captured one of the coolest moments you can find in a game jam - as
 It's Kim.
 
 ![dainuconfig](/static/img/DainuDatingSim/kimConversation.png)
+
+## Download link
+
+[**Try the game out yourself!**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing) 
