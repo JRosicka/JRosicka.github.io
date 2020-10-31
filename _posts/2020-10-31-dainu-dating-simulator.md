@@ -38,6 +38,7 @@ In order to make the game more fast-paced, we introduced a time mechanic - a met
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/DainuDatingSim/timer.mp4" type="video/mp4">
 </video>
+<br/><br/>
 
 ## The work
 
@@ -46,6 +47,7 @@ Our team had six members on it with a variety of skills, and most member had not
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/DainuDatingSim/reaction.mp4" type="video/mp4">
 </video>
+<br/><br/>
 
 The result ended up being a fairly good balance of things to work on. 
 
@@ -104,7 +106,7 @@ I was also able to work on creating animations to add some movement into the gam
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/DainuDatingSim/animations.mp4" type="video/mp4">
 </video>
-
+<br/><br/>
 
 This project captured one of the coolest moments you can find in a game jam - as the weekend was winding down and it became clear that we did not have enough time to include everything we wanted, all of us agreed to pick a few more days in the coming weeks to meet back up and finish the project. After much animation polishing and dialog tweaking, we had our finished game, which meant that we could begin bugging all of our friends to play it. 
 

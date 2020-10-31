@@ -48,7 +48,7 @@ There are a lot of elements of these two genres that share the same *fantasy*:
 At their core, these two genres seem like a perfect fit. 
 
 There are a handful of examples of bullet hells and rhythm games being combined, the most prominent of which is likely 
-[**Just Shapes & Beats**](https://www.youtube.com/watch?v=aEGVEr4_3kI). This game seems to appeal to
+[***Just Shapes & Beats***](https://www.youtube.com/watch?v=aEGVEr4_3kI). This game seems to appeal to
 the above elements nicely, providing a fast-paced dodging experience in which every aspect of the game's
 bullet patterns and animations are on-beat with the soundtrack. This should serve as a good model for further exploring
 a mashup between bullet hells and rhythm games. 
@@ -75,6 +75,7 @@ framework before configuring more of the front-end. Here's a snapshot of what I 
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/FitD/basicGameplay.mp4" type="video/mp4">
 </video>
+<br/><br/>
 
 I'll be excited to see what I can do with this prototype once the framework is in a more complete
 spot. Stay tuned for updates!
