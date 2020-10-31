@@ -116,4 +116,4 @@ It's Kim.
 
 ## Download link
 
-[**Try the game out yourself!**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing) 
+[**Try the game out!**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing) 
