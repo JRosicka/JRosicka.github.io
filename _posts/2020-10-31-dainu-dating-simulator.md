@@ -5,7 +5,7 @@ date:   2020-10-31 12:00:00
 categories: game-jams unity
 ---
 
-[**Download link**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing)
+[**Download link**](https://drive.google.com/file/d/1EuAU-1wV_dEGeky6_xoSl5ZNGoTbvtBh/view?usp=sharing)
 
 PUND Studios presents - Dainu Dating Simulator!
 
@@ -118,4 +118,4 @@ It's Kim.
 
 ## Download link
 
-[**Try the game out!**](https://drive.google.com/file/d/10j7YWKGPpwNfXBRJPUA0m_shptktaWvN/view?usp=sharing) 
+[**Try the game out!**](https://drive.google.com/file/d/1EuAU-1wV_dEGeky6_xoSl5ZNGoTbvtBh/view?usp=sharing) 
