@@ -1,11 +1,10 @@
 ---
 layout: post
 title: The Space Between Us
-date:   2021-01-03 16:00:00
-categories: unity game-jams
+date:   2021-05-23 16:00:00
+categories: game-jams unity
 ---
 
-<Title Screen screenshot>
 ![Title screen](/static/img/TSBU/titleScreen.png)
 
 [**Download link**](https://jam-a-llamas.itch.io/the-space-between-us)
@@ -17,7 +16,6 @@ categories: unity game-jams
 After hashing out a number of ideas, we settled on our game. Thematically, the player plays as the captain of a ~~spaceship~~ ~~drill~~ space-drill, running around his ship frantically repairing components as they constantly break. 
 As the player does this, conversations between the captain and the ship’s cadet play out. The tone is overall comedic, both in the conversations and the set-design. 
 
-<gif of running around the ship and bringing up a minigame>
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/bringingUpMinigame.mp4" type="video/mp4">
 </video>
@@ -37,7 +35,6 @@ As for me and the other two developers, we did what we could to avoid the inevit
 entire systems out to each developer so that there was as little crossover as possible. We had one developer work on the main game logic and all of the accompanying animations and particle effects, 
 one work primarily on the dialog system, and me mostly work on the minigames. 
 
-<gif of the engine particle effects>
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/polish.mp4" type="video/mp4">
 </video>
@@ -50,7 +47,6 @@ And of course, I needed to work quickly so that I could give a good amount of ti
 
 How did I do? It was somewhat of a mixed bag, but I think they turned out pretty good overall. 
 
-<engine repair minigame>
 ![Engine repair minigame](/static/img/TSBU/engineRepair.png)
 
 One of the main challenges as I was working on these was a design one - how to make the games interesting while still keeping them intuitive. The player needs to be able to recognize what they’re supposed 
@@ -59,7 +55,6 @@ to do immediately after seeing a minigame for the first time. As I worked on the
 We provided some visual indicators where helpful - making the fail-state and success-states as prominent as possible seemed important. Take the drill-repair minigame - a big shaky red animation plays when the player 
 mistimes their click, and a happy green “you did it” animation plays when they pass it. Audio indicators were helpful as well, and our audio designer did a great job making a lot of little audio clips to put throughout the game. 
 
-<gif of drill minigame fail animation>
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/drill.mp4" type="video/mp4">
 </video>
@@ -70,7 +65,6 @@ In that minigame, the player needs to both balance out the oxygen levels between
 do not immediately understand what’s going on. I don’t blame them though, since the reserve meter is unmarked and there is no indication about how close the levels need to be to each other. 
 Little visual improvements like that would go a long way. 
 
-<oxygen repair minigame>
 ![Oxygen repair minigame](/static/img/TSBU/oxygenRepair.png)
 
 From the technical side of things, I also ran into issues with UI scaling. The minigames were entirely built in the UI by using the canvas, but I did not properly anchor some of the GameObjects for some of the minigames to 
@@ -78,7 +72,6 @@ scale properly on different aspect ratios. Attempts to improve this were pretty 
 
 One last thing to note about minigames - there must be some sort of cosmic force out there that compels me to make bullet hell shmups. 
 
-<gif of Shmup section>
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/shmup.mp4" type="video/mp4">
 </video>
@@ -95,7 +88,6 @@ a sign that it was a great idea to invest as much as we did into the secondary e
 * Minigame improvements: Some minigames were not intuitive enough to new players, as discussed earlier. 
 * First-time experience: At the very beginning of the game, it wasn’t especially clear to players about where they should go or what they should be doing. We improved this first-time experience by starting the game with a single close-by broken device for them to fix and with a pathway of unlocked doors leading to the device. We also added a minimap and an indicator around the player pointing to broken devices. Still, the actual core gameplay loop is often unclear - players need to be taught that the game is about running around the ship and fixing devices. The best thing we could do here is to add a more clear-cut tutorial, perhaps even creating a small tutorial level where we explain to the player that devices will be breaking all the time and that it is their job to fix them. 
 
-<zoomed-in picture of minimap>
 ![Minimap](/static/img/TSBU/minimap.png)
 
 To summarize, the most important elements that were missing from the initial release of our game centered around tutorialization. It seemed like players generally had a great time at their second or 
@@ -107,7 +99,6 @@ are those browsing through a ton of games on the LDJam site, so we shouldn’t e
 *The Space Between Us* scored #3 overall out of 2721 entries in the Jam category, and it scored #1 in art and #1 in sound! This was a very pleasant surprise to see - we felt like the final game was great, 
 but weren’t expecting anything like this. Our team was very talented and put in some great work, so it’s awesome to see so many people enjoying it. 
 
-<score section on their website>
 ![Score](/static/img/TSBU/score.png)
 
 You can download *The Space Between Us* [**here**](https://jam-a-llamas.itch.io/the-space-between-us).
