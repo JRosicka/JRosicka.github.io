@@ -19,7 +19,6 @@ As the player does this, conversations between the captain and the ship’s cade
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/bringingUpMinigame.mp4" type="video/mp4">
 </video>
-<br/><br/>
 
 As for gameplay, the overall loop focuses on a sort of triage - the player needs to run from device to device, completing various minigames to fix the devices as they break. Think *Warioware* meets *Overcooked* with some obligatory *Among Us* elements. 
 
@@ -38,7 +37,6 @@ one work primarily on the dialog system, and me mostly work on the minigames.
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/polish.mp4" type="video/mp4">
 </video>
-<br/><br/>
 
 ## Minigames
 
@@ -58,7 +56,6 @@ mistimes their click, and a happy green “you did it” animation plays when th
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/drill.mp4" type="video/mp4">
 </video>
-<br/><br/>
 
 Though this visual and audio feedback is helpful, there is still a lot of room for improvement. Adding more indicators and clarification would go a long way - the oxygen minigame especially could use some work. 
 In that minigame, the player needs to both balance out the oxygen levels between the tanks and use up all of the oxygen from the reserve meter. Though the instructions explain this, most new players 
@@ -75,7 +72,6 @@ One last thing to note about minigames - there must be some sort of cosmic force
 <video class="center-block" width="100%" height="auto" controls="controls">
   <source src="/static/img/TSBU/shmup.mp4" type="video/mp4">
 </video>
-<br/><br/>
 
 Not that I’m complaining, since those are a ton of fun to make. 
 
