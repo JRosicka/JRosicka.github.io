@@ -13,7 +13,7 @@ categories: game-jams unity
 
 ## The Premise
 
-After hashing out a number of ideas, we settled on our game. Thematically, the player plays as the captain of a ~~spaceship~~ ~~drill~~ space-drill, running around his ship frantically repairing components as they constantly break. 
+After hashing out a number of ideas, we settled on our game. Thematically, the player plays as the captain of a ~~spaceship~~ ~~drill~~ space-drill, running around his ship and frantically repairing devices as they constantly break. 
 As the player does this, conversations between the captain and the ship’s cadet play out. The tone is overall comedic, both in the conversations and the set-design. 
 
 <video class="center-block" width="100%" height="auto" controls="controls">
@@ -50,9 +50,9 @@ How did I do? It was somewhat of a mixed bag, but I think they turned out pretty
 ![Engine repair minigame](/static/img/TSBU/engineRepair.PNG)
 
 One of the main challenges as I was working on these was a design one - how to make the games interesting while still keeping them intuitive. The player needs to be able to recognize what they’re supposed 
-to do immediately after seeing a minigame for the first time. As I worked on them, I realized that it would be helpful to provide instructions for each minigame explaining what to do. 
+to do immediately after seeing a minigame for the first time. I ended up providing instructions for each minigame to make the objective as clear as possible. 
 
-We provided some visual indicators where helpful - making the fail-state and success-states as prominent as possible seemed important. Take the drill-repair minigame - a big shaky red animation plays when the player 
+We provided some visual indicators where helpful - making the fail-states and success-states as prominent as possible seemed important. Take the drill-repair minigame - a big shaky red animation plays when the player 
 mistimes their click, and a happy green “you did it” animation plays when they pass it. Audio indicators were helpful as well, and our audio designer did a great job making a lot of little audio clips to put throughout the game. 
 
 <video class="center-block" width="100%" height="auto" controls="controls">
@@ -94,11 +94,11 @@ To summarize, the most important elements that were missing from the initial rel
 third playthroughs of the game, but it would have been great to have that happen at players’ *first* playthroughs. The target audience of this game jam was important to keep in mind for this too - most of our players 
 are those browsing through a ton of games on the LDJam site, so we shouldn’t expect that second or third playthrough to necessarily even happen for any given player. 
 
-** Final Score
+## Final Score
 
 *The Space Between Us* scored #3 overall out of 2721 entries in the Jam category, and it scored #1 in art and #1 in sound! This was a very pleasant surprise to see - we felt like the final game was great, 
-but weren’t expecting anything like this. Our team was very talented and put in some great work, so it’s awesome to see so many people enjoying it. 
+but weren’t expecting anything like this. Our team was very talented and put in some great work, so it’s awesome to see so many people enjoy it. 
 
 ![Score](/static/img/TSBU/score.PNG)
 
-You can download *The Space Between Us* [**here**](https://jam-a-llamas.itch.io/the-space-between-us).
+You can download *The Space Between Us* [**here**](https://jam-a-llamas.itch.io/the-space-between-us)!
