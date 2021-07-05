@@ -5,11 +5,9 @@ date:   2021-07-06 16:00:00
 categories: 
 ---
 
-Yeah
-
 {% assign todayDate = site.time | date: "%Y-%m-%d" %}
 {% case todayDate %}
-    {% when '2021-07-06' %}Yeah
+    {% when '2021-07-05' %}Yeah
     {% else %}Probably not
 {% endcase %}
 
